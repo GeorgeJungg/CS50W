@@ -1,0 +1,5 @@
+django-admin startproject airline
+python manange.py startapp flights
+python manange.py makemigrations
+python manange.py migrate
+python manange.py runserver
